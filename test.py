@@ -10,7 +10,6 @@ print("Versión de numpy:", np.__version__)
 print("Versión de matplotlib:", mpl.__version__)
 print("Versión de seaborn:", sns.__version__)
 
-help(plt.versions)
 
 # Configuración visual
 plt.style.use("seaborn-v0_8")
